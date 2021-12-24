@@ -1,0 +1,39 @@
+
+h1{
+    text-align: center;
+    padding-bottom: 50px;
+}
+h2 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+ button{
+    margin-bottom: 20px;
+    
+}
+.show_something {
+  margin-top: 20px;
+  background-color: cornflowerblue;
+  display: none;
+}
+.showNumber {
+    padding: 14px 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+  background-color: cornflowerblue;
+ display: flex;
+ align-items: center;
+}
+.showNumber i {
+    padding-right: 10px;
+}
+.showNumber p {
+    margin: 0;
+}
+
+.wraper input {
+    max-width: 600px;
+    margin: auto;
+    width: 60%;
+    
+ }
